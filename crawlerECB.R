@@ -14,7 +14,7 @@ url = "https://www.ecb.europa.eu/press/pressconf/press_conference/html/index.en.
 #last meeting date, needs to be precise
 previous_date = "2023-05-04" 
 
-#The first meeting date, no need to be precise, meetings with a date before or equal to this date are collected
+#The first meeting date, no need to be precise, meetings with a date after or equal to this date are collected
 end_date = as.Date("2017-01-01") 
 #################################################
 
