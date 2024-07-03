@@ -14,5 +14,4 @@ This web crawler is intended for personal, educational, or research purposes onl
 - Collects ECB conference releases and stores them in a list.
 - Output the collected data to txt and/or pdf files.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
