@@ -1,2 +1,18 @@
-# ECB-meeting-minutes-press-conference-release-crawler
+# ECB Conference Release Web Crawler
+
 This repository contains a web crawler designed to collect and archive European Central Bank (ECB) conference releases. The crawler is built for educational and research purposes, aiming to provide easy access to historical conference data.
+
+## Legal and Ethical Considerations
+
+### Disclaimer
+This project is not affiliated with or endorsed by the European Central Bank (ECB). The data collected and presented by this crawler is publicly available on the ECB's official website. This repository and its contributors are not responsible for any misuse of the code or the data collected.
+
+### Usage
+This web crawler is intended for personal, educational, or research purposes only. Users of this repository are responsible for ensuring their use of the crawler complies with the ECB's terms of service and any other relevant legal requirements.
+
+## Features
+- Collects ECB conference releases and stores them in a list.
+- Output the collected data to txt and/or pdf files.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
