@@ -1,6 +1,6 @@
 # ECB Conference Release Web Crawler
 
-This repository contains a web crawler designed to collect and archive European Central Bank (ECB) conference releases. The crawler is built for educational and research purposes, aiming to provide easy access to historical conference data.
+Please contaact me at yutai.ke@bse.eu if you have any questions or if you have encountered any issue.
 
 ## Legal and Ethical Considerations
 
